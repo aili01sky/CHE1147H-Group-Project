@@ -1,6 +1,6 @@
 # Machine Learning Prediction of Daily Energy Consumption in a Full-Scale Wastewater Treatment Plant
 
-CHE1147 Chemical Data Science and Engineering, University of Toronto, Fall 2026
+CHE1147 Chemical Data Science and Engineering, University of Toronto, Fall 2026    
 Group: Athalia Beatrice Molianto, Kanishk Deshpande, Sadiyah Shafath
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aili01sky/CHE1147H-Group-Project/blob/main/02_Modelling.ipynb)
