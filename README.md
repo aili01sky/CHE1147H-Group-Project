@@ -1,6 +1,7 @@
 # Machine Learning Prediction of Daily Energy Consumption in a Full-Scale Wastewater Treatment Plant
 
 CHE1147 Chemical Data Science and Engineering, University of Toronto, Fall 2026
+
 Group: Athalia Beatrice Molianto, Kanishk Deshpande, Sadiyah Shafath
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aili01sky/CHE1147H-Group-Project/blob/main/02_Modelling.ipynb)
@@ -22,7 +23,7 @@ Wastewater treatment plants are among the most energy-intensive municipal facili
 | `fig_parity.png` | Parity plots of Gradient Boosting (A) and Ridge (B) |
 | `fig_permutation_importance.png` | Permutation importance of Random Forest (A), Gradient Boosting (A), Ridge (B) |
 | `fig_uncertainty_ridgeB.png` | Bootstrap uncertainty of Ridge (B) |
-| `fig_shap_gbA.png` | SHAP analysis of Gradient Boosting (A) |
+| `fig_shap_gbA.png` | SHAP beeswarm of Gradient Boosting (A) |
 | `fig_shap_waterfall.png` | SHAP waterfall for the highest predicted test day |
 
 ## Environment and how to run
@@ -40,4 +41,4 @@ Wastewater treatment plants are among the most energy-intensive municipal facili
 
 ## Data source
 - Data: Kaggle "Full Scale Waste Water Treatment Plant Data" (d4rklucif3r); original source: https://data.mendeley.com/datasets/pprkvz3vbd/1
-- Reference: F. Bagherzadeh, A. S. Nouri, M.-J. Mehrani and S. Thennadil, "Prediction of energy consumption and evaluation of affecting factors in a full-scale WWTP using a machine learning approach," *Process Safety and Environmental Protection*, vol. 154, pp. 458–466, 2021, doi: 10.1016/j.psep.2021.08.040.
+- Data originally published with:: F. Bagherzadeh, A. S. Nouri, M.-J. Mehrani and S. Thennadil, "Prediction of energy consumption and evaluation of affecting factors in a full-scale WWTP using a machine learning approach," *Process Safety and Environmental Protection*, vol. 154, pp. 458–466, 2021, doi: 10.1016/j.psep.2021.08.040.
