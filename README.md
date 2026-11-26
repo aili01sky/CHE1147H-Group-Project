@@ -40,4 +40,4 @@ Wastewater treatment plants are among the most energy-intensive municipal facili
 
 ## Data source
 - Data: Kaggle "Full Scale Waste Water Treatment Plant Data" (d4rklucif3r); original source: https://data.mendeley.com/datasets/pprkvz3vbd/1
-- Data originally published with:: F. Bagherzadeh, A. S. Nouri, M.-J. Mehrani and S. Thennadil, "Prediction of energy consumption and evaluation of affecting factors in a full-scale WWTP using a machine learning approach," *Process Safety and Environmental Protection*, vol. 154, pp. 458–466, 2021, doi: 10.1016/j.psep.2021.08.040.
+- Data originally published with: F. Bagherzadeh, A. S. Nouri, M.-J. Mehrani and S. Thennadil, "Prediction of energy consumption and evaluation of affecting factors in a full-scale WWTP using a machine learning approach," *Process Safety and Environmental Protection*, vol. 154, pp. 458–466, 2021, doi: 10.1016/j.psep.2021.08.040.
